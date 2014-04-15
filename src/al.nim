@@ -1,4 +1,4 @@
-const verstring = "5.0"
+const verstring = "5.1"
 when defined(Windows):
   import windows
   const
